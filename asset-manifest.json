@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "./static/css/main.441b1b5e.css",
-    "main.js": "./static/js/main.1de51485.js",
+    "main.js": "./static/js/main.616ced3e.js",
     "static/media/YuvrajSingh.svg": "./static/media/YuvrajSingh.57d9e3376d6e7e80f1d35d2d3c425d64.svg",
     "static/media/YuvrajSingh.pdf": "./static/media/YuvrajSingh.c8b26eb30ff3b570857b.pdf",
     "static/media/logo.svg": "./static/media/logo.6daed997dde96e1c93a34b7a49a10a24.svg",
     "index.html": "./index.html",
     "main.441b1b5e.css.map": "./static/css/main.441b1b5e.css.map",
-    "main.1de51485.js.map": "./static/js/main.1de51485.js.map"
+    "main.616ced3e.js.map": "./static/js/main.616ced3e.js.map"
   },
   "entrypoints": [
     "static/css/main.441b1b5e.css",
-    "static/js/main.1de51485.js"
+    "static/js/main.616ced3e.js"
   ]
 }
